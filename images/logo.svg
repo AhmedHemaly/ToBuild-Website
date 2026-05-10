@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 252">
+
+  <!-- ── SYMBOL: Pyramid sitting on top of the T ── -->
+
+  <!-- Terracotta pyramid / gable roof -->
+  <polygon points="150,8 212,78 88,78" fill="#C05A3A"/>
+
+  <!-- Navy T crossbar — extends past pyramid base to read as T -->
+  <rect x="68" y="78" width="164" height="20" rx="5" fill="#1A3469"/>
+
+  <!-- Navy T stem -->
+  <rect x="129" y="98" width="42" height="50" rx="5" fill="#1A3469"/>
+
+  <!-- ── WORDMARK ── -->
+  <text
+    x="150" y="198"
+    font-family="'Arial Black', Arial, sans-serif"
+    font-weight="900"
+    font-size="54"
+    fill="#1A3469"
+    text-anchor="middle"
+    letter-spacing="-1"
+  >TOBUILD</text>
+
+  <!-- ── TAGLINE ── -->
+  <text
+    x="150" y="228"
+    font-family="Arial, Helvetica, sans-serif"
+    font-weight="500"
+    font-size="13"
+    fill="#1A3469"
+    text-anchor="middle"
+    letter-spacing="2.5"
+  >BUILDING MATERIALS SUPPLIER</text>
+
+</svg>
